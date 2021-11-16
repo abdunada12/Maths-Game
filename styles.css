@@ -119,15 +119,11 @@ html{
     position: relative;
     transition: 0.1s ease-in background-color;
 }
-#answers .box:hover{
-    background-color: #264653;
-    box-shadow: 0px 6px #182b33;
-    color: #a5d3e6;
-}
 #answers .box:active{
     top: 6px;
     background-color: #264653;
     box-shadow: 0px 0px #182b33;
+    color: #a5d3e6;
 }
 
 #startreset{
